@@ -1,0 +1,112 @@
+c:\users\kacsa\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.exe
+c:\users\kacsa\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.pdb
+c:\users\kacsa\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\MainWindow.baml
+c:\users\kacsa\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\MainWindow.g.cs
+c:\users\kacsa\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\App.g.cs
+c:\users\kacsa\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client_MarkupCompile.cache
+c:\users\kacsa\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.g.resources
+c:\users\kacsa\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+c:\users\kacsa\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+c:\users\kacsa\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.exe
+c:\users\kacsa\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\kacsa\Documents\Visual Studio 2010\Projects\Client\Client\obj\x86\Debug\CliensMessage.baml
+C:\Users\kacsa\Documents\Visual Studio 2010\Projects\Client\Client\obj\x86\Debug\CliensMessage.g.cs
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\obj\x86\Debug\Client.exe
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\obj\x86\Debug\Client.pdb
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\bin\Debug\Client.exe
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\bin\Debug\Client.pdb
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\obj\x86\Debug\CliensMessage.baml
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\obj\x86\Debug\MainWindow.baml
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\obj\x86\Debug\CliensMessage.g.cs
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\obj\x86\Debug\MainWindow.g.cs
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\obj\x86\Debug\App.g.cs
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\obj\x86\Debug\Client_MarkupCompile.cache
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\obj\x86\Debug\Client.g.resources
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\munka\C#\VCF\Socket2\TCP Chat\Kitenni\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+c:\munka\C#\2010_11\Client\Client\obj\x86\Debug\Client.exe
+c:\munka\C#\2010_11\Client\Client\obj\x86\Debug\Client.pdb
+c:\munka\C#\2010_11\Client\Client\bin\Debug\Client.exe
+c:\munka\C#\2010_11\Client\Client\bin\Debug\Client.pdb
+c:\munka\C#\2010_11\Client\Client\obj\x86\Debug\CliensMessage.baml
+c:\munka\C#\2010_11\Client\Client\obj\x86\Debug\MainWindow.baml
+c:\munka\C#\2010_11\Client\Client\obj\x86\Debug\CliensMessage.g.cs
+c:\munka\C#\2010_11\Client\Client\obj\x86\Debug\MainWindow.g.cs
+c:\munka\C#\2010_11\Client\Client\obj\x86\Debug\App.g.cs
+c:\munka\C#\2010_11\Client\Client\obj\x86\Debug\Client_MarkupCompile.cache
+c:\munka\C#\2010_11\Client\Client\obj\x86\Debug\Client.g.resources
+c:\munka\C#\2010_11\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+c:\munka\C#\2010_11\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\Client.exe
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\Client.pdb
+c:\munka\C#\2010_11\MessageSend\Client\Client\bin\Debug\Client.exe
+c:\munka\C#\2010_11\MessageSend\Client\Client\bin\Debug\Client.pdb
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\CliensMessage.baml
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\MainWindow.baml
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\CliensMessage.g.cs
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\MainWindow.g.cs
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\App.g.cs
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\Client_MarkupCompile.cache
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\Client.g.resources
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\Window1.baml
+c:\munka\C#\2010_11\MessageSend\Client\Client\obj\x86\Debug\Window1.g.cs
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\Client.exe
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\Client.pdb
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\bin\Debug\Client.exe
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\bin\Debug\Client.pdb
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\CliensMessage.baml
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\MainWindow.baml
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\Window1.baml
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\CliensMessage.g.cs
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\MainWindow.g.cs
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\Window1.g.cs
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\App.g.cs
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\Client_MarkupCompile.cache
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\Client.g.resources
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+c:\munka\C#\2010_11\Message_belepTilt\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client.exe
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client.pdb
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\bin\Debug\Client.exe
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\bin\Debug\Client.pdb
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\CliensMessage.baml
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\MainWindow.baml
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\CliensMessage.g.cs
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\MainWindow.g.cs
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\App.g.cs
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client_MarkupCompile.cache
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client.g.resources
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\bin\Debug\Client.exe
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\bin\Debug\Client.pdb
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client.csprojAssemblyReference.cache
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\CliensMessage.baml
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\MainWindow.baml
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\CliensMessage.g.cs
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\MainWindow.g.cs
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\App.g.cs
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client_MarkupCompile.cache
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client.g.resources
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.cache
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client.exe
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\bin\Debug\Client.exe
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\bin\Debug\Client.pdb
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\Client.csprojAssemblyReference.cache
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\CliensMessage.baml
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\MainWindow.baml
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\CliensMessage.g.cs
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\App.g.cs
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\Client_MarkupCompile.cache
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\Client.g.resources
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.cache
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Client\Client\obj\x86\Debug\Client.pdb

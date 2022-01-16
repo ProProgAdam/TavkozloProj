@@ -1,0 +1,83 @@
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\MainWindow.baml
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\MainWindow.g.cs
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\App.g.cs
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.g.resources
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.exe
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.pdb
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\Server.exe
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\Server.pdb
+C:\munka\C#\2010_11\MessageSend\Server\Server\bin\Debug\Server.exe
+C:\munka\C#\2010_11\MessageSend\Server\Server\bin\Debug\Server.pdb
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\MainWindow.baml
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\MainWindow.g.cs
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\App.g.cs
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\Server.g.resources
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\Server.exe
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\Server.pdb
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\bin\Debug\Server.exe
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\bin\Debug\Server.pdb
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\MainWindow.baml
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\MainWindow.g.cs
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\App.g.cs
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\Server.g.resources
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.exe
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.pdb
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\bin\Debug\Server.exe
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\bin\Debug\Server.pdb
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\MainWindow.baml
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\MainWindow.g.cs
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\App.g.cs
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.g.resources
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\bin\Debug\Server.exe
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\bin\Debug\Server.pdb
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\MainWindow.baml
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\MainWindow.g.cs
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\App.g.cs
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.g.resources
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.exe
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\MainWindow.baml
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\MainWindow.g.cs
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\App.g.cs
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.g.resources
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\adamn\OneDrive\Asztali gép\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\MainWindow.baml
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\App.g.cs
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.g.resources
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\sarid\Desktop\TavkozloAVEPY0\Server\Server\Server\obj\x86\Debug\Server.pdb
